@@ -1,6 +1,6 @@
 {
   "name": "@wevertoonsilva/ng2-pdf-viewer",
-  "version": "7.0.3",
+  "version": "7.0.4",
   "description": "Angular 5+ component for rendering PDF",
   "license": "MIT",
   "scripts": {
@@ -15,8 +15,7 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "packagr": "ng-packagr -p package.json",
-    "docs": "ng build --prod --output-path docs --base-href ng2-pdf-viewer && cp ./docs/index.html ./docs/404.html",
-    "postinstall": "ngcc"
+    "docs": "ng build --prod --output-path docs --base-href ng2-pdf-viewer && cp ./docs/index.html ./docs/404.html"
   },
   "private": false,
   "repository": {
