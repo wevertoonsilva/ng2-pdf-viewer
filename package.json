@@ -1,5 +1,5 @@
 {
-  "name": "ng2-pdf-viewer",
+  "name": "@wevertoonsilva/ng2-pdf-viewer",
   "version": "7.0.1",
   "description": "Angular 5+ component for rendering PDF",
   "license": "MIT",
@@ -21,7 +21,7 @@
   "private": false,
   "repository": {
     "type": "git",
-    "url": "git+https://vadimdez@github.com/VadimDez/ng2-pdf-viewer.git"
+    "url": "git+https://github.com/wevertoonsilva/ng2-pdf-viewer.git"
   },
   "keywords": [
     "angular",
@@ -39,11 +39,11 @@
   },
   "homepage": "https://github.com/VadimDez/ng2-pdf-viewer#readme",
   "dependencies": {
-    "pdfjs-dist": "~2.7.570",
+    "pdfjs-dist": "~2.9.359",
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "pdfjs-dist": "~2.7.570"
+    "pdfjs-dist": "~2.9.359"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1101.2",
